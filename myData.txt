@@ -1,0 +1,38 @@
+//primjer pdfa, u redu je da izgleda ovako svakako... Ni web nije mnogo ljepsi
+Lista svih računa za: Ime Prezime, OIB: 12345678987
+Ukupan broj računa: 77
+* Autorizacija [Ručno/Skenirano] označava da li je broj sa iskaznice ručno upisan prilikom kupnje na
+blagajni ili je iskaznica skenirana. Ukoliko sumnjate na zloupotrebu Vaše studentske iskaznice, molimo
+Vas obratite se na: visokoobrazovanje@mzo.hr
+Datum izrade dokumenta: x.x.202x.
+Restoran Broj kartice Datum
+dnevnika
+Vrijeme
+računa
+Iznos
+računa
+[Kn]
+Iznos
+subvencije
+[Kn]
+Autorizacija
+Restoran sa
+samoposluživanjem, Linija 1 9876543211233234312 04.12.2021 11:42 52.5900 36.4100 Skenirano
+Restoran sa
+samoposluživanjem, Linija 1 9876543211233234312 03.12.2021 15:33 74.9900 50.2200 Skenirano
+Restoran Kampus, Kampus3 9876543211233234312 01.12.2021 15:24 61.7600 39.0200 Skenirano
+Restoran Kampus, Kampus2 9876543211233234312 30.11.2021 16:11 40.0800 21.6700 Skenirano
+Restoran Kampus, Kampus2 9876543211233234312 30.11.2021 14:38 21.7200 15.4700 Skenirano
+Restoran Kampus, Kampus3 9876543211233234312 29.11.2021 19:29 57.2000 39.0400 Skenirano
+Restoran sa
+samoposluživanjem, Linija 2 9876543211233234312 28.11.2021 13:28 29.5900 21.0800 Skenirano
+Restoran sa
+samoposluživanjem, Linija 2 9876543211233234312 27.11.2021 13:08 51.4900 36.6800 Skenirano
+Restoran sa
+samoposluživanjem, Linija 1 9876543211233234312 26.11.2021 15:26 39.7100 28.2900 Skenirano
+Restoran Kampus, Kampus2 9876543211233234312 26.11.2021 11:13 17.9000 10.2100 Skenirano
+Restoran Kampus, Kampus1 9876543211233234312 25.11.2021 16:24 21.1200 15.0500 Skenirano
+Restoran Kampus, Kampus1 9876543211233234312 24.11.2021 14:16 8.8400 6.3000 Skenirano
+Restoran sa
+samoposluživanjem, Linija 2 9876543211233234312 24.11.2021 10:33 25.4500 17.0600 Ručno
+Restoran Kampus, Kampus1 9876543211233234312 23.11.2021 15:27 21.0700 15.0100 Skenirano
